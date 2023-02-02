@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(175, 179, 245);
+    margin-left: 405px;
+}
+
+header {
+
+    margin-top: 100px;
+    margin-bottom: 300px;
+
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+
+    margin-top: 90px;
+    margin-bottom: 40px;
+
+}
+
+.Serviços e diversao 
+{
+
+    width: 200px;
+
+}
+
+.logoemail {
+
+    width: 45px;
+}
+
+.bem-vindo {
+
+    width: 500px;
+}
